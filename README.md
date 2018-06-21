@@ -1,8 +1,8 @@
 # Swift  playground
 
-Useful resources:
-[Algorithm club](https://github.com/raywenderlich/swift-algorithm-club)
-[Big O](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Big-O%20Notation.markdown)
+Useful resources: <br>
+[Algorithm club](https://github.com/raywenderlich/swift-algorithm-club) <br>
+[Big O](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Big-O%20Notation.markdown) <br>
 
 
 <img src="images/1.png" width="550">
