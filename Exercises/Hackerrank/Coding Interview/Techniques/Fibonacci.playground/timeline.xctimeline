@@ -3,13 +3,17 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/yujin/Dropbox/EXAM/Facebook/fb/playgrounds/Exercises/Hackerrank/Techniques/Fibonacci.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=93&amp;EndingColumnNumber=0&amp;EndingLineNumber=5&amp;StartingColumnNumber=1&amp;StartingLineNumber=4&amp;Timestamp=542866055.9048131"
+         documentLocation = "file:///Users/yujin/Documents/Developer/Swift-playgrounds/Exercises/Hackerrank/Coding%20Interview/Techniques/Fibonacci.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=93&amp;EndingColumnNumber=0&amp;EndingLineNumber=5&amp;StartingColumnNumber=1&amp;StartingLineNumber=4&amp;Timestamp=551244971.0455689"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/yujin/Dropbox/EXAM/Facebook/fb/playgrounds/Exercises/Hackerrank/Techniques/Fibonacci.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=119&amp;EndingColumnNumber=0&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=6&amp;Timestamp=542866055.90512"
-         lockedSize = "{362, 91}"
+         documentLocation = "file:///Users/yujin/Documents/Developer/Swift-playgrounds/Exercises/Hackerrank/Coding%20Interview/Techniques/Fibonacci.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=119&amp;EndingColumnNumber=0&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=6&amp;Timestamp=551244971.045855"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yujin/Documents/Developer/Swift-playgrounds/Exercises/Hackerrank/Coding%20Interview/Techniques/Fibonacci.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=430&amp;EndingColumnNumber=0&amp;EndingLineNumber=23&amp;StartingColumnNumber=0&amp;StartingLineNumber=22&amp;Timestamp=551244971.04606"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
