@@ -5,7 +5,7 @@ Useful resources:
 [Big O](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Big-O%20Notation.markdown)
 
 
-<img src="images/1.png" width="250">
+<img src="images/1.png" width="550">
 <img src="images/2.png" width="250">
 
 
