@@ -8,5 +8,5 @@ Useful resources: <br>
 <img src="images/1.png" width="550">
 
 ## **Requirements for installation**
-- Xcode 9 +
+- Xcode 8 +
 <br><br>
